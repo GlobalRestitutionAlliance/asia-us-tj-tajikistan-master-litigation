@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: tajikistanan-restitution-roadmap-and-qsf-trust-execution
-  name: Tajikistanan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/tajikistanan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_tj_001
+    name: Tajikistan Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_002
+    name: Tajikistan Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_003
+    name: Tajikistan Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_004
+    name: Tajikistan Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_005
+    name: Tajikistan Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_006
+    name: Tajikistan Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_007
+    name: Tajikistan Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_008
+    name: Tajikistan Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_009
+    name: Tajikistan Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_010
+    name: Tajikistan Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_011
+    name: Tajikistan Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_012
+    name: Tajikistan Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_013
+    name: Tajikistan Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_014
+    name: Tajikistan Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_015
+    name: Tajikistan Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_016
+    name: Tajikistan Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_017
+    name: Tajikistan Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_018
+    name: Tajikistan Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_019
+    name: Tajikistan Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_020
+    name: Tajikistan Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_021
+    name: Tajikistan Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_022
+    name: Tajikistan Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_023
+    name: Tajikistan Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_024
+    name: Tajikistan Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_025
+    name: Tajikistan Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_026
+    name: Tajikistan Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_027
+    name: Tajikistan Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_028
+    name: Tajikistan Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_029
+    name: Tajikistan Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_030
+    name: Tajikistan Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_031
+    name: Tajikistan Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_032
+    name: Tajikistan Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_033
+    name: Tajikistan Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_034
+    name: Tajikistan Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_035
+    name: Tajikistan Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_036
+    name: Tajikistan Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_037
+    name: Tajikistan Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_038
+    name: Tajikistan Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_039
+    name: Tajikistan Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_040
+    name: Tajikistan Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_041
+    name: Tajikistan Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_042
+    name: Tajikistan Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_043
+    name: Tajikistan Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_044
+    name: Tajikistan Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_045
+    name: Tajikistan Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_046
+    name: Tajikistan Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_047
+    name: Tajikistan Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_048
+    name: Tajikistan Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_049
+    name: Tajikistan Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_050
+    name: Tajikistan Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_051
+    name: Tajikistan Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_052
+    name: Tajikistan Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_053
+    name: Tajikistan Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_054
+    name: Tajikistan Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_055
+    name: Tajikistan Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_056
+    name: Tajikistan Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_057
+    name: Tajikistan Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_058
+    name: Tajikistan Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_059
+    name: Tajikistan Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_060
+    name: Tajikistan Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_061
+    name: Tajikistan Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_062
+    name: Tajikistan Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_063
+    name: Tajikistan Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_064
+    name: Tajikistan Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_065
+    name: Tajikistan Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_066
+    name: Tajikistan Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_067
+    name: Tajikistan Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_068
+    name: Tajikistan Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_069
+    name: Tajikistan Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_070
+    name: Tajikistan Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_071
+    name: Tajikistan Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_072
+    name: Tajikistan Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_073
+    name: Tajikistan Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_074
+    name: Tajikistan Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_075
+    name: Tajikistan Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_076
+    name: Tajikistan Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_077
+    name: Tajikistan Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_078
+    name: Tajikistan Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_079
+    name: Tajikistan Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_080
+    name: Tajikistan Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_081
+    name: Tajikistan Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_082
+    name: Tajikistan Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_083
+    name: Tajikistan Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_084
+    name: Tajikistan Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_085
+    name: Tajikistan Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_086
+    name: Tajikistan Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_087
+    name: Tajikistan Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_088
+    name: Tajikistan Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_089
+    name: Tajikistan Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_090
+    name: Tajikistan Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_091
+    name: Tajikistan Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_092
+    name: Tajikistan Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_093
+    name: Tajikistan Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_094
+    name: Tajikistan Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_095
+    name: Tajikistan Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_096
+    name: Tajikistan Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_097
+    name: Tajikistan Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_098
+    name: Tajikistan Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_099
+    name: Tajikistan Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_100
+    name: Tajikistan Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_101
+    name: Tajikistan Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_102
+    name: Tajikistan Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_103
+    name: Tajikistan Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_104
+    name: Tajikistan Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_105
+    name: Tajikistan Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_106
+    name: Tajikistan Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_107
+    name: Tajikistan Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_108
+    name: Tajikistan Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_109
+    name: Tajikistan Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_110
+    name: Tajikistan Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_111
+    name: Tajikistan Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_112
+    name: Tajikistan Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_113
+    name: Tajikistan Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_114
+    name: Tajikistan Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_115
+    name: Tajikistan Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_116
+    name: Tajikistan Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_117
+    name: Tajikistan Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_118
+    name: Tajikistan Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_119
+    name: Tajikistan Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_120
+    name: Tajikistan Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_121
+    name: Tajikistan Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_122
+    name: Tajikistan Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_123
+    name: Tajikistan Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_124
+    name: Tajikistan Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_125
+    name: Tajikistan Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_126
+    name: Tajikistan Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_127
+    name: Tajikistan Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_128
+    name: Tajikistan Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_129
+    name: Tajikistan Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_130
+    name: Tajikistan Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_131
+    name: Tajikistan Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_132
+    name: Tajikistan Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_133
+    name: Tajikistan Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_134
+    name: Tajikistan Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_135
+    name: Tajikistan Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_136
+    name: Tajikistan Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_137
+    name: Tajikistan Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_138
+    name: Tajikistan Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_139
+    name: Tajikistan Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_140
+    name: Tajikistan Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_141
+    name: Tajikistan Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_142
+    name: Tajikistan Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_143
+    name: Tajikistan Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_144
+    name: Tajikistan Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_145
+    name: Tajikistan Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_146
+    name: Tajikistan Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_147
+    name: Tajikistan Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_148
+    name: Tajikistan Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_149
+    name: Tajikistan Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_150
+    name: Tajikistan Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_151
+    name: Tajikistan Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_152
+    name: Tajikistan Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_153
+    name: Tajikistan Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_154
+    name: Tajikistan Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_155
+    name: Tajikistan Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_156
+    name: Tajikistan Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_157
+    name: Tajikistan Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_158
+    name: Tajikistan Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_159
+    name: Tajikistan Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_160
+    name: Tajikistan Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_161
+    name: Tajikistan Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_162
+    name: Tajikistan Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_163
+    name: Tajikistan Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_164
+    name: Tajikistan Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_165
+    name: Tajikistan Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_166
+    name: Tajikistan Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_167
+    name: Tajikistan Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_168
+    name: Tajikistan Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_169
+    name: Tajikistan Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_170
+    name: Tajikistan Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_171
+    name: Tajikistan Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_172
+    name: Tajikistan Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_173
+    name: Tajikistan Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_174
+    name: Tajikistan Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_175
+    name: Tajikistan Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_176
+    name: Tajikistan Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_177
+    name: Tajikistan Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_178
+    name: Tajikistan Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_179
+    name: Tajikistan Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_180
+    name: Tajikistan Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_181
+    name: Tajikistan Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_182
+    name: Tajikistan Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_183
+    name: Tajikistan Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_184
+    name: Tajikistan Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_185
+    name: Tajikistan Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_186
+    name: Tajikistan Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_187
+    name: Tajikistan Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_188
+    name: Tajikistan Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_189
+    name: Tajikistan Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_190
+    name: Tajikistan Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_191
+    name: Tajikistan Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_192
+    name: Tajikistan Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_193
+    name: Tajikistan Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_194
+    name: Tajikistan Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_195
+    name: Tajikistan Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_196
+    name: Tajikistan Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_197
+    name: Tajikistan Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_198
+    name: Tajikistan Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_199
+    name: Tajikistan Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_200
+    name: Tajikistan Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_201
+    name: Tajikistan Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_202
+    name: Tajikistan Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_203
+    name: Tajikistan Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_204
+    name: Tajikistan Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_205
+    name: Tajikistan Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_206
+    name: Tajikistan Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_207
+    name: Tajikistan Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_208
+    name: Tajikistan Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_209
+    name: Tajikistan Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_210
+    name: Tajikistan Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_211
+    name: Tajikistan Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_212
+    name: Tajikistan Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_213
+    name: Tajikistan Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_214
+    name: Tajikistan Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_215
+    name: Tajikistan Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_216
+    name: Tajikistan Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_217
+    name: Tajikistan Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_218
+    name: Tajikistan Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_219
+    name: Tajikistan Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_220
+    name: Tajikistan Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_221
+    name: Tajikistan Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_222
+    name: Tajikistan Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_223
+    name: Tajikistan Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_224
+    name: Tajikistan Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_225
+    name: Tajikistan Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_226
+    name: Tajikistan Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_227
+    name: Tajikistan Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_228
+    name: Tajikistan Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_229
+    name: Tajikistan Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_230
+    name: Tajikistan Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_231
+    name: Tajikistan Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_232
+    name: Tajikistan Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_233
+    name: Tajikistan Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_234
+    name: Tajikistan Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_235
+    name: Tajikistan Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_236
+    name: Tajikistan Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_237
+    name: Tajikistan Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_238
+    name: Tajikistan Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_239
+    name: Tajikistan Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_240
+    name: Tajikistan Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_241
+    name: Tajikistan Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_242
+    name: Tajikistan Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_243
+    name: Tajikistan Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_244
+    name: Tajikistan Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_245
+    name: Tajikistan Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_246
+    name: Tajikistan Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_247
+    name: Tajikistan Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_248
+    name: Tajikistan Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_249
+    name: Tajikistan Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_250
+    name: Tajikistan Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_251
+    name: Tajikistan Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tj_252
+    name: Tajikistan Skill 252
+    status: ACTIVE_SCAFFOLD
