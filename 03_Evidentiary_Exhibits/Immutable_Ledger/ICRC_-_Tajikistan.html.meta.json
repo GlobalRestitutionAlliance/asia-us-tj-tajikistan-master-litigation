@@ -1,0 +1,19 @@
+{
+  "url": "https://www.icrc.org/en/where-we-work/europe-central-asia/tajikistan",
+  "final_url": "https://www.icrc.org/en/where-we-work/tajikistan",
+  "title": "ICRC - Tajikistan",
+  "fetched_at": "2026-11-23T15:27:15.471500Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 63558,
+  "sha256": "294fc122acabe1a649881acf8ae421942cda78c8929e44ecbe64ff128731182c",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Possible challenge/empty capture; pending recapture.",
+  "redaction_note": "Redacted Mapbox token from public captured HTML before push; hash/bytes updated."
+}
